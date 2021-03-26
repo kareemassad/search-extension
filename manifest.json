@@ -1,0 +1,10 @@
+{
+    "name": "Kareem's Omnibox Extension",
+    "version": "1.0",
+    "manifest_version": 2,
+    "omnibox": {"keyword": "kareem"},
+    "background": {
+        "persistent": false,
+        "scripts": ["background.js"]
+    }
+}

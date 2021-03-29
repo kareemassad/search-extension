@@ -1,8 +1,8 @@
 {
-    "name": "Kareem's Omnibox Extension",
-    "version": "1.0",
+    "name": "My Fridge",
+    "version": "2.0",
     "manifest_version": 2,
-    "omnibox": {"keyword": "kareem"},
+    "omnibox": {"keyword": "fridge"},
     "background": {
         "persistent": false,
         "scripts": ["background.js"]

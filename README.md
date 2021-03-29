@@ -1,8 +1,8 @@
-# search-extension
+# My Fridge
 
-Goal: Create an omnibox that allows the search of popular sites with certain keybinds.
+Goal: Create a website that tracks the contents of my fridge. Then create an omnibox that allows the search/add/remove of items in the fridge
 
-To use, Enter keyword kareem then a Space into chrome. This will trigger the special omnibox.
+To use, Enter keyword fridge then a Space into chrome. This will trigger the special omnibox.
 
 <!-- 
 Helpful documentation:
